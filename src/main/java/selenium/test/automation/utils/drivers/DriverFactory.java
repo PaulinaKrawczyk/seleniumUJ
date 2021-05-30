@@ -16,7 +16,9 @@ public class DriverFactory {
             driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
             driver.manage().window().maximize();
             return driver;
-        } // TODO REST
+        } else if (browserType == BrowserType.FIREFOX) {
+            System.out.println("Firefox driver not configured!");
+        }
         return null;
     }
 }

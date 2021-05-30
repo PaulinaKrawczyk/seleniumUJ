@@ -14,6 +14,7 @@ public class LoginTest extends DefaultTest {
         loginPage.submitLoginForm();
 
         DashboardPage dashboardPage = new DashboardPage(driver);
+//        screenshot.make(driver, "successLogin");
         Assert.assertTrue(dashboardPage.isLogoutButtonDisplayed());
     }
 }

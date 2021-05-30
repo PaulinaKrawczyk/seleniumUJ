@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+
+    <parameter name="browser" value="CHROME"/> <!-- CHROME / FIREFOX / ... -->
+    <parameter name="makeScreenshot" value="ALWAYS"/> <!-- ON_FAIL / ALWAYS -->
+
+    <test name="Regression1">
+        <classes>
+            <class name="selenium.test.automation.tests.LoginTest"/>
+            <class name="selenium.test.automation.tests.AddVersionTest"/>
+        </classes>
+    </test>
+</suite>

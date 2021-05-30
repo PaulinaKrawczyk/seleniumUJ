@@ -1,0 +1,60 @@
+[INFO ] 2021-05-29 13:51:40.517 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 13:51:41.299 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 13:51:41.300 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-05-29 13:51:42.305 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:42:31.149 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 14:42:32.110 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:42:32.111 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-05-29 14:42:33.139 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:43:09.109 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 14:43:09.897 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:43:09.902 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:43:10.857 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:43:10.858 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:43:11.815 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:43:11.816 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:47:52.652 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 14:47:53.471 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:47:53.657 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:47:54.488 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:47:54.489 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-29 14:48:24.696 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-29 14:48:24.696 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-29 14:48:54.901 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-29 14:48:54.902 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:50:09.330 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 14:50:11.837 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:50:11.842 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:50:12.985 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:50:12.985 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:50:14.113 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:50:14.114 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:55:46.045 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 14:55:46.871 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:55:47.047 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:55:47.907 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:55:47.907 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 14:55:48.741 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 14:55:48.742 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:35.050 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-29 15:11:35.855 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:36.072 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:36.940 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:36.941 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:37.749 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:37.749 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:38.549 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:38.550 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:39.406 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:39.407 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:40.224 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:40.225 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:41.021 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:41.021 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:41.805 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:41.806 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:42.777 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:42.777 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:43.572 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-29 15:11:43.572 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-29 15:11:44.399 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
