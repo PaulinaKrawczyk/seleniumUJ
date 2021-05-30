@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import selenium.test.automation.pages.AddVersionPage;
 import selenium.test.automation.pages.DashboardPage;
 import selenium.test.automation.pages.VersionListPage;
+import selenium.test.automation.utils.data.DataReader;
 import selenium.test.automation.utils.generators.VersionDataGenerator;
 
 public class AddVersionTest extends DefaultTest {
@@ -16,7 +17,8 @@ public class AddVersionTest extends DefaultTest {
         dashboardPage.goToVersionListPage();
     }
 
-    @Test(dataProvider = "versionDataProvider")
+//    @Test(dataProvider = "versionDataProvider")
+@Test(dataProvider = "readFromCSVVersionDataProvider")
     public void successAddVersionTest(String name, String description) {
 //        DashboardPage dashboardPage = new DashboardPage(driver);
 //        dashboardPage.goToVersionListPage();
@@ -33,9 +35,15 @@ public class AddVersionTest extends DefaultTest {
     }
 
 
-    @DataProvider(name = "versionDataProvider")
-    public Object[][] versionDataProvider() {
-        return new VersionDataGenerator().generateVersionData();
+
+//    @DataProvider(name = "versionDataProvider")
+    @DataProvider(name = "readFromCSVVersionDataProvider")
+//    public Object[][] versionDataProvider() {
+//        return new VersionDataGenerator().generateVersionData();
+//    }
+
+    public Object[][] readFromCSVVersionDataProvider(){
+        return new DataReader.readVersionData("versionData.csv");
     }
 }
 
