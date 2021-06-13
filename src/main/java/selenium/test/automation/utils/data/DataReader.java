@@ -2,40 +2,34 @@ package selenium.test.automation.utils.data;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
-import com.opencsv.exceptions.CsvValidationException;
+import com.opencsv.exceptions.CsvException;
 import selenium.test.automation.utils.files.FileHelper;
 
+import java.io.FileReader;
 import java.io.IOException;
-import java.io.Reader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.util.List;
 
 public class DataReader {
+
     public Object[][] readVersionData(String fileName) {
         Object[][] data = null;
         try {
-            Reader reader = Files.newBufferedReader(Paths.get(new FileHelper().getResourceFilePath(fileName)));
-            CSVReader csvReader = new CSVReaderBuilder(reader).withSkipLines(1).build();
-
-            data = new Object[(int) csvReader.getLinesRead()][];
-
-            String[] dataRecord;
-            String[] nextRecord;
+            CSVReader csvReader = new CSVReaderBuilder(
+                    new FileReader(new FileHelper().getResourceFilePath(fileName))
+            ).withSkipLines(1).build();
+            List<String[]> dataRead = csvReader.readAll();
+            data = new Object[dataRead.size()][];
             int i = 0;
-            while ((nextRecord = csvReader.readNext()) != null) {
-                dataRecord = new String[2];
-                dataRecord[0] = nextRecord[0];
-                dataRecord[1] = nextRecord[1];
+            for (String[] d : dataRead) {
+                String[] dataRecord = new String[2];
+                dataRecord[0] = d[0];
+                dataRecord[1] = d[1];
                 data[i] = dataRecord;
                 i++;
             }
-
-        } catch (IOException | CsvValidationException e) {
+        } catch (IOException | CsvException e) {
             e.printStackTrace();
         }
-
         return data;
     }
 }
-
-

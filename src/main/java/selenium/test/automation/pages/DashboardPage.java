@@ -12,9 +12,12 @@ public class DashboardPage extends DefaultPage {
     @FindBy(css = "html > body > aside > div > ul > li.item4:nth-child(4) > a:nth-child(1)")
     private WebElement environmentListButton;
 
-
     @FindBy(xpath = "/html/body/aside/div/ul/li[5]/a")
     private WebElement versionListButton;
+
+    @FindBy(xpath = "/html/body/aside/div/ul/li[6]/a")
+    private WebElement tagListButton;
+
 
     public DashboardPage(WebDriver driver) {
         super(driver);
@@ -29,5 +32,8 @@ public class DashboardPage extends DefaultPage {
     }
     public void goToVersionListPage () {
         clickElement(versionListButton);
+    }
+    public void goToTagListPage () {
+        clickElement(tagListButton);
     }
 }

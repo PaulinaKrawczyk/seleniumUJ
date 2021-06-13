@@ -11,18 +11,15 @@ import selenium.test.automation.utils.data.DataReader;
 import selenium.test.automation.utils.generators.VersionDataGenerator;
 
 public class AddVersionTest extends DefaultTest {
+
     @BeforeClass
     public void setUpClass() {
         DashboardPage dashboardPage = new DashboardPage(driver);
         dashboardPage.goToVersionListPage();
     }
 
-//    @Test(dataProvider = "versionDataProvider")
-@Test(dataProvider = "readFromCSVVersionDataProvider")
+    @Test(dataProvider = "generatedVersionDataProvider")
     public void successAddVersionTest(String name, String description) {
-//        DashboardPage dashboardPage = new DashboardPage(driver);
-//        dashboardPage.goToVersionListPage();
-
         VersionListPage versionListPage = new VersionListPage(driver);
         versionListPage.goToAddVersionPage();
 
@@ -34,16 +31,13 @@ public class AddVersionTest extends DefaultTest {
         Assert.assertTrue(versionListPage.isInfoBoxDisplayed());
     }
 
+    @DataProvider(name = "generatedVersionDataProvider")
+    public Object[][] generatedVersionDataProvider() {
+        return new VersionDataGenerator().generateVersionData();
+    }
 
-
-//    @DataProvider(name = "versionDataProvider")
     @DataProvider(name = "readFromCSVVersionDataProvider")
-//    public Object[][] versionDataProvider() {
-//        return new VersionDataGenerator().generateVersionData();
-//    }
-
-    public Object[][] readFromCSVVersionDataProvider(){
-        return new DataReader.readVersionData("versionData.csv");
+    public Object[][] readFromCSVVersionDataProvider() {
+        return new DataReader().readVersionData("versionData.csv");
     }
 }
-

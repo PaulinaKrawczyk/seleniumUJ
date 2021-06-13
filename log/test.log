@@ -58,3 +58,117 @@
 [INFO ] 2021-05-29 15:11:43.572 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
 [INFO ] 2021-05-29 15:11:43.572 [main] LOG - Test 'successAddVersionTest' has started
 [INFO ] 2021-05-29 15:11:44.399 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:26.129 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-30 10:54:26.914 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:26.915 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-05-30 10:54:27.913 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:36.799 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-30 10:54:37.593 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:37.784 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 10:54:38.457 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:38.457 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 10:54:39.083 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:39.084 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 10:54:39.713 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:39.713 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 10:54:40.316 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 10:54:40.316 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 10:54:40.930 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 11:17:58.241 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-30 11:17:59.122 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 11:17:59.313 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-05-30 11:18:18.949 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-30 11:18:19.842 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 11:18:19.844 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-05-30 11:18:20.892 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 11:19:21.138 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-05-30 11:19:22.015 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-05-30 11:19:22.221 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-30 11:19:52.778 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-30 11:19:52.779 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-30 11:20:22.940 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-30 11:20:22.941 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-30 11:20:53.157 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-30 11:20:53.157 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-30 11:21:23.318 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-05-30 11:21:23.319 [main] LOG - Test 'successAddVersionTest' has started
+[ERROR] 2021-05-30 11:21:53.507 [main] LOG - Test 'successAddVersionTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 15:03:09.307 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:03:11.444 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:03:11.956 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:03:50.453 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:03:51.209 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:03:51.211 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-06-13 15:03:52.433 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:16.386 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:12:17.203 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:17.381 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:12:18.021 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:18.022 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:12:18.618 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:18.619 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:12:19.230 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:19.230 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:12:19.848 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:12:19.848 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:12:20.486 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:26.996 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:14:27.783 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:27.956 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:28.850 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:28.851 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:29.598 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:29.598 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:30.372 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:30.373 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:31.119 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:31.120 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:31.870 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:31.870 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:32.614 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:32.615 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:33.354 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:33.355 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:34.112 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:34.112 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:34.840 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:14:34.840 [main] LOG - Test 'successAddVersionTest' has started
+[INFO ] 2021-06-13 15:14:35.581 [main] LOG - Test 'successAddVersionTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:18:28.428 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:18:29.280 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:18:29.282 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-06-13 15:18:30.292 [main] LOG - Test 'successAddEnvironmentTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:56:32.425 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:56:33.192 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:56:33.194 [main] LOG - Test 'successAddEnvironmentTest' has started
+[INFO ] 2021-06-13 15:59:39.377 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 15:59:40.150 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 15:59:40.151 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:00:31.153 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:00:31.934 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:00:31.936 [main] LOG - Test 'successAddTagTest' has started
+[ERROR] 2021-06-13 16:01:02.241 [main] LOG - Test 'successAddTagTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 16:02:46.361 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:02:47.113 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:02:47.115 [main] LOG - Test 'successAddTagTest' has started
+[ERROR] 2021-06-13 16:03:17.526 [main] LOG - Test 'successAddTagTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 16:04:00.312 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:04:01.111 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:04:01.113 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:04:01.961 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:04:35.465 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:04:36.189 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:04:36.191 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:04:36.986 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:17:39.329 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:17:40.185 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:17:40.187 [main] LOG - Test 'successAddTagTest' has started
+[ERROR] 2021-06-13 16:17:40.683 [main] LOG - Test 'successAddTagTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 16:18:19.370 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:18:20.115 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:18:20.117 [main] LOG - Test 'successAddTagTest' has started
+[ERROR] 2021-06-13 16:18:20.582 [main] LOG - Test 'successAddTagTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 16:19:03.269 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:19:04.085 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:19:04.087 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:19:04.857 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
