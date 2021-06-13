@@ -9,7 +9,8 @@ public class TagListPage extends DefaultPage {
         super(driver);
     }
 
-    @FindBy(xpath = "/html/body/div[1]/section/article/div[1]/nav/ul/li/a")
+    @FindBy(css ="#content > article > div.content_header > nav > ul > li > a")
+
     public WebElement addTagPageLink;
 
     @FindBy(id = "j_info_box")

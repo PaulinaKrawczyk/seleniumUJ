@@ -16,7 +16,7 @@ public class AddTagPage extends DefaultPage{
             super(driver);
         }
 
-        public void fillAddTagForm(String s, String name) {
+        public void fillAddTagForm(String name) {
             fillElement(nameFiled, name);
         }
 

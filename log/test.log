@@ -172,3 +172,31 @@
 [INFO ] 2021-06-13 16:19:04.085 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
 [INFO ] 2021-06-13 16:19:04.087 [main] LOG - Test 'successAddTagTest' has started
 [INFO ] 2021-06-13 16:19:04.857 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:27:52.911 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:27:53.687 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:27:53.689 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:27:54.525 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:39:08.876 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:39:09.658 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:39:09.837 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:39:10.412 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:39:10.412 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:40:50.485 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:40:51.281 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:40:51.443 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:40:52.028 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:40:52.029 [main] LOG - Test 'successAddTagTest' has started
+[ERROR] 2021-06-13 16:41:22.254 [main] LOG - Test 'successAddTagTest' has finished with status: FAILURE
+[INFO ] 2021-06-13 16:41:22.254 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:34.005 [main] LOG - Test 'successLoginTest' has started
+[INFO ] 2021-06-13 16:41:34.733 [main] LOG - Test 'successLoginTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:41:34.897 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:35.510 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:41:35.510 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:36.082 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:41:36.083 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:36.642 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:41:36.642 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:37.205 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
+[INFO ] 2021-06-13 16:41:37.205 [main] LOG - Test 'successAddTagTest' has started
+[INFO ] 2021-06-13 16:41:37.759 [main] LOG - Test 'successAddTagTest' has finished with status: SUCCESS
