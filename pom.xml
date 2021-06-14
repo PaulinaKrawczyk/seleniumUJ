@@ -48,7 +48,6 @@
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>
             <version>5.22.0</version>
-            <scope>test</scope>
         </dependency>
 
     </dependencies>
